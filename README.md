@@ -77,6 +77,7 @@ I enjoy building practical systems that go beyond notebooks: from data cleaning 
 - Machine learning workflows with **scikit-learn**, **PyTorch**, **TensorFlow**, and **Keras**
 - Computer vision workflows with **OpenCV** and **YOLO**
 - Real-time image processing and object detection
+- Interactive dashboards and data apps with **Streamlit**
 - Bayesian optimisation and adaptive sampling
 - Gaussian process modelling
 - Scientific data visualization
