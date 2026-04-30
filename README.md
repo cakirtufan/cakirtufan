@@ -129,25 +129,3 @@ Developed a domain-specific AI assistant prototype for translating natural-langu
 
 ---
 
-## 🌍 Languages
-
-- Turkish: Native
-- English: Fluent
-- German: C1
-
----
-
-<details>
-  <summary>GitHub Stats ⚡</summary>
-
-  <br>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cakirtufan&show_icons=true&theme=tokyonight&hide_border=true" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakirtufan&layout=compact&theme=tokyonight&hide_border=true" />
-  </p>
-
-</details>
