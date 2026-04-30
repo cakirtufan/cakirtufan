@@ -55,6 +55,7 @@ I enjoy building practical systems that go beyond notebooks: from data cleaning 
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-Object%20Detection-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-Dashboarding-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HDF5-FF6600?style=for-the-badge" />
